@@ -523,7 +523,7 @@ a:focus {
 .blog_section .box .detail-box a {
   display: inline-block;
   padding: 8px 25px;
-  background-color: #ac9784;
+  background-color: rgb(30, 169, 44);
   color: #ffffff;
   margin-top: 35px;
 }
